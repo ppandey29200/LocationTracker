@@ -5,7 +5,7 @@
              x:Class="MapImplementation.MainPage"
              Title="MainView"
              Shell.BackgroundColor="DarkBlue"
-             Shell.ForegroundColor="White"
+             Shell.TabBarTitleColor="White"
              >
           <!-- Main Content Section -->
         <Grid VerticalOptions="FillAndExpand">
