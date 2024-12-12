@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MapImplementation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a469d7c4ddb48e1a2ce2c6453a1deb81993d07fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e92a4e9028c79e86b12dea93a372471dcdda161e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MapImplementation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MapImplementation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

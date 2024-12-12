@@ -2,11 +2,16 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:maps="clr-namespace:Microsoft.Maui.Controls.Maps;assembly=Microsoft.Maui.Controls.Maps"
-             x:Class="MapImplementation.MainPage">
-
-    <Grid>
-        <maps:Map x:Name="Map" MapType="Street" IsShowingUser="True">
-        </maps:Map>
-    </Grid>
-    
+             x:Class="MapImplementation.MainPage"
+             Title="MainView"
+             Shell.BackgroundColor="DarkBlue"
+             Shell.ForegroundColor="White"
+             >
+          <!-- Main Content Section -->
+        <Grid VerticalOptions="FillAndExpand">
+            <maps:Map x:Name="Map"
+                      VerticalOptions="FillAndExpand"
+                      HorizontalOptions="FillAndExpand" />
+        </Grid>
+  
 </ContentPage>
