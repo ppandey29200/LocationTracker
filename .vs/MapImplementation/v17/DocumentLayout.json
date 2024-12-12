@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\New folder\\LocationTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9BC4FE-8179-4D04-ACCA-057E6A60736F}|MapImplementation\\MapImplementation.csproj|c:\\users\\user\\downloads\\new folder\\locationtracker\\mapimplementation\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9BC4FE-8179-4D04-ACCA-057E6A60736F}|MapImplementation\\MapImplementation.csproj|solutionrelative:mapimplementation\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9BC4FE-8179-4D04-ACCA-057E6A60736F}|MapImplementation\\MapImplementation.csproj|c:\\users\\user\\downloads\\new folder\\locationtracker\\mapimplementation\\platforms\\ios\\info.plist||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF9BC4FE-8179-4D04-ACCA-057E6A60736F}|MapImplementation\\MapImplementation.csproj|solutionrelative:mapimplementation\\platforms\\ios\\info.plist||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Info.plist",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\New folder\\LocationTracker\\MapImplementation\\Platforms\\iOS\\Info.plist",
+              "RelativeDocumentMoniker": "MapImplementation\\Platforms\\iOS\\Info.plist",
+              "ToolTip": "C:\\Users\\user\\Downloads\\New folder\\LocationTracker\\MapImplementation\\Platforms\\iOS\\Info.plist",
+              "RelativeToolTip": "MapImplementation\\Platforms\\iOS\\Info.plist",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T04:07:47.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\New folder\\LocationTracker\\MapImplementation\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MapImplementation\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\New folder\\LocationTracker\\MapImplementation\\MainPage.xaml.cs",
+              "RelativeToolTip": "MapImplementation\\MainPage.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:06:55.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
